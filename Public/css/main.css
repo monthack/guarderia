@@ -65,7 +65,7 @@ header p {
 
 
 .jumbotron {
-  display flex;
+  display: flex;
   align-items: ruby-text-container;
   background-image: url('nubes.png');
   background-size: cover;
